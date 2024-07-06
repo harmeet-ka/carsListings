@@ -1,0 +1,60 @@
+[
+    {
+      "id": 1,
+      "make": "Tata",
+      "model": "Punch",
+      "year": 2024,
+      "price": 25000,
+      "description":"Great car",
+      "specifications": {
+        "engine": "2.5L I4",
+        "transmission": "Automatic",
+        "mileage": "30,000 miles",
+        "fuelType": "Petrol"
+      },
+      "images": [
+        "images/TataPunch1.png",
+        "images/TataPunch2.png",
+        "images/TataPunch3.png"
+      ]
+    },
+    {
+      "id": 2,
+      "make": "Mahindra",
+      "model": "Thar",
+      "year": 2023,
+      "price": 35000,
+      "description": "Nice car",
+      "specifications": {
+        "engine": "1.5L I4",
+        "transmission": "Automatic",
+        "mileage": "40,000 miles",
+        "fuelType": "Gasoline"
+      },
+      "images": [
+        "images/MahindraThar1.png",
+        "images/MahindraThar2.png",
+        "images/MahindraThar3.png"
+      ]
+    },
+    {
+      "id": 3,
+      "make": "Maruti",
+      "model": "Swift",
+      "year": 2021,
+      "price": 30000,
+      "description": "Blue Color car.",
+      "specifications": {
+        "engine": "3.5L I4",
+        "transmission": "Automatic",
+        "mileage": "20,000 miles",
+        "fuelType": "Diesel"
+      },
+      "images": [
+        "images/MarutiSwift1.png",
+        "images/MarutiSwift2.png",
+        "images/MarutiSwift3.png"
+      ]
+    }
+  ]
+  
